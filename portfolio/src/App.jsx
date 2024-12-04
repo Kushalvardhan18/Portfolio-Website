@@ -5,7 +5,7 @@ function App() {
     <>
    <Header/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

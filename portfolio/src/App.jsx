@@ -1,9 +1,9 @@
-import sign from "./assets/sign.png"
+
+import Header from "./components/Header"
 function App() {
   return (
     <>
-    <h1>kushal vardhan</h1>
-   <img src={sign} alt="" />
+   <Header/>
     </>
   )
 }
